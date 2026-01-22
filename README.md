@@ -7,11 +7,12 @@
 
 <h2>📺 Certifications</h2>
 
+- [Cisco Certified Network Professional Security](https://www.credly.com/badges/73672513-c139-45bd-8fa1-80462f19926d/public_url)
 - [Cybersecurity Essentials](https://shorturl.at/nOAYd)
 - [CCNAv7: Introduction to Networks](https://www.credly.com/badges/7c6df44e-5b0a-4d4f-9cdb-0b45df3c8261/public_url)
 - [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/2ba3f910-e148-4814-8bc3-73d3ba6954dd/public_url)
 - [Partner: PCAP - Programming Essentials in Python](https://www.netacad.com/certificates?issuanceId=7ae036c9-6a06-4982-8dbd-8fc1426adbd3)
-- [Cisco Certified Network Professional Security](https://www.credly.com/badges/73672513-c139-45bd-8fa1-80462f19926d/public_url)
+
   
 
 
