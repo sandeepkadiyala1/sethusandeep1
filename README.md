@@ -23,7 +23,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/sethusandeepck/
+[linkedin]: https://www.linkedin.com/in/1ksandeep/
 
 
 
